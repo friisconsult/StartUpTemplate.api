@@ -1,0 +1,36 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Per Friis",
+  "classifications": [],
+  "description": "The killer template",
+  "name": ".Net Core 2.x with Bootstrap 4.x",
+  "defaultName": "FriisConsultFullTemplate",
+  "identity": "MyTemplate.FriisConsultFullTemplate.CSharp",
+  "groupIdentity": "MyTemplate.FriisConsultFullTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project",
+    "vsmac-category": "other/net/general"
+  },
+  "shortName": "FriisConsultFullTemplate",
+  "sourceName": "FriisConsultFullTemplate",
+  "guids": [
+    "{EB46EFF8-FE1F-4874-AE05-38077E49397B}"
+  ],
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            ".vs/**/*"
+          ]
+        }
+      ]
+    }
+  ],
+  "primaryOutputs": [
+    {
+      "path": "FriisConsultFullTemplate.csproj"
+    }
+  ]
+}
